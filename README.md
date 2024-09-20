@@ -24,11 +24,11 @@ pip install -r requirements.txt
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/IbrahimT04/Slither-Blitz.git
+   git clone https://github.com/IbrahimT04/Grid-Masters.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd Slither-Blitz
+   cd Grid-Masters
    ```
 3. Run the game:
    ```bash
