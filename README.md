@@ -22,11 +22,18 @@ pip install -r requirements.txt
 
 ### Running the Game
 
-Once the dependencies are installed, you can start the game by running the `main.py` file:
-
-```bash
-python main.py
-```
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/IbrahimT04/Slither-Blitz.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd Slither-Blitz
+   ```
+3. Run the game:
+   ```bash
+   python main.py
+   ```
 
 This will launch the Tic-Tac-Toe game with a Tkinter-based GUI.
 
